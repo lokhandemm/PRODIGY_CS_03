@@ -5,7 +5,7 @@ This Python script evaluates the strength of a given password based on multiple 
 ## Features
 
 - Checks if the password length is at least 8 characters.
-- Verifies the presence of uppercase and lowercase letters.
+- Verifies the presence of uppercase and lowercase letters. 
 - Ensures at least one numerical digit is included.
 - Requires at least one special character (`!@#$%^&*()-_+=<>?/.,:;`).
 - Categorizes password strength into five levels: **Very Weak, Weak, Moderate, Strong, Very Strong**.
