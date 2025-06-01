@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Strength Checker 
           
 This Python script evaluates the strength of a given password based on multiple security factors such as length, uppercase and lowercase letters, digits, and special characters. It provides a score-based assessment along with constructive feedback to improve weak passwords.
  
